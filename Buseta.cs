@@ -6,5 +6,6 @@ namespace TransportesCR
 {
     public class Buseta : Vehiculo
     {
+        int capacidadpasajeros;
     }
 }

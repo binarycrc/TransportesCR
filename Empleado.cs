@@ -6,5 +6,9 @@ namespace TransportesCR
 {
     public class Empleado
     {
+        string identificacion;
+        string papellido;
+        string sapellido;
+        
     }
 }

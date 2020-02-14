@@ -6,5 +6,6 @@ namespace TransportesCR
 {
     public class Conductor : Empleado
     {
+        int ruta;
     }
 }

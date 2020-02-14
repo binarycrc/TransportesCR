@@ -6,5 +6,6 @@ namespace TransportesCR
 {
     public class Administrador : Empleado
     {
+        int grupo;
     }
 }
