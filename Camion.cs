@@ -8,7 +8,6 @@ namespace TransportesCR
     {
         int _capacidadkilos;
         int _capacidadvolumen;
-        
         public Camion(string placa, int modelo)
             : base(placa, modelo)
         { 
